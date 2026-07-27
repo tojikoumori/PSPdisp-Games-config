@@ -3,6 +3,8 @@ This is a collection of control configs files of games I have played.
 
 Some remapping is required, currently in 1 game and an emulator.
 
+They're ready to be dragged and dropped in PSPdisp's control folder, which you can access from its tray icon (Control, Customize, Open control file folder to modify/add control files)
+
 # Current Games list
 
 **PC native games:**
@@ -16,29 +18,3 @@ Some remapping is required, currently in 1 game and an emulator.
 - Mario Kart 8 Deluxe - to test
 - Inazuma Eleven Victory Road - to test
 - Tomodachi Life Living The dream - to test
-
-# Remapping
-
-To make this work, there is some remapping that you have to do inside P5R and the Eden emulator
-
-**P5R:** 
-- (Common) General Menu control: E
-- (Common) Pages/Change list (Right): N
-- (Common) Pages/Change list (Right): N
-- (Event/Movie) Fast forward -> R
-- (Field/Dungeon) Camera up/down/left/right: I/K/J/L
-- (Field/Dungeon) Third eye: ctrl
-- (Battle) Aim Gun: I
-- (Battle) Items: E
-- (Battle) Skills: N
-- (Battle) Baton pass -> Left shift 
-- (Battle) Analyze -> Left ctrl
-- (Battle) Showtime -> V
-- (Battle) Analyze: ctrl
-
-**Eden**
-
-<img width="1122" height="467" alt="immagine" src="https://github.com/user-attachments/assets/28ba4beb-52e9-4507-a8d7-2d0f060d8725" />
-
-
-  
