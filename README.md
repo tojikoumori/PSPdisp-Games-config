@@ -12,8 +12,8 @@ This is a collection of control configs of games I have played.
 
 - Splatoon 2 - tested
 - Mario Kart 8 Deluxe - untested
-- Inazuma Eleven Victory Road - untested
-- Tomodachi Life Living The dream - tested
+- Inazuma Eleven Victory Road - might need correction
+- Tomodachi Life Living The dream - might need correction
 
 # Remapping you must do 
 
