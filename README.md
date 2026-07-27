@@ -1,5 +1,5 @@
 # PSPdisp-Games-config
-This is a collection of control configs of games I have played.
+This is a collection of control configs files of games I have played. Some remapping in games is required.
 
 # Current Games list
 
@@ -15,7 +15,7 @@ This is a collection of control configs of games I have played.
 - Inazuma Eleven Victory Road - might need correction
 - Tomodachi Life Living The dream - might need correction
 
-# Remapping you must do 
+# Remapping
 
 To make this work, there is some remapping that you have to do inside P5R and the Eden emulator
 
