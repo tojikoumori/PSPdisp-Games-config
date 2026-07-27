@@ -15,12 +15,12 @@ They're ready to be dragged and dropped in PSPdisp's control folder, which you c
 
 # Current Games list
 
-**PC native games:**
+## PC native games:
 
 - **Persona 5 Royal** - tested - ready
 - **Persona 4 Golden** - to test
 
-**Emulator games (Eden)**
+## Emulator games (Eden)
 
 - **Splatoon 2** - tested - ready
 - **Mario Kart 8 Deluxe** - to test
