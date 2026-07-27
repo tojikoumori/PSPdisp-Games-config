@@ -37,6 +37,7 @@ To make this work, there is some remapping that you have to do inside P5R and th
 - (Battle) Analyze: ctrl
 
 **Eden**
+
 <img width="1122" height="467" alt="immagine" src="https://github.com/user-attachments/assets/28ba4beb-52e9-4507-a8d7-2d0f060d8725" />
 
 
