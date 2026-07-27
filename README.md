@@ -1,4 +1,9 @@
 # PSPdisp-Games-config
+
+<sup>i make projects for fun and share them to use freely, but i spend so much time on them, so if you liked this and want to support me i appreciate donations :) 
+
+<sup>☕ https://buymeacoffee.com/tojikoumori<sup>
+
 This is a collection of control configs files of games I have played. 
 
 Some remapping is required, currently in 1 game and an emulator.
