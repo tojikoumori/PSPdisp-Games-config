@@ -1,6 +1,8 @@
 # PSPdisp-Games-config
 
-<sup>i make projects for fun and share them to use freely, though i spend so much time on them, so if you liked this and want to support me i appreciate donations :) 
+<sup>i make projects for fun and share them to use freely, though i spend so much time on them, 
+
+so if you liked this and want to support me i appreciate donations :) 
 
 <sup>☕ https://buymeacoffee.com/tojikoumori<sup>
 
